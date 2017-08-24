@@ -1,0 +1,10 @@
+E:\BITM\WindowsFormsCalculator\WindowsFormsCalculator\bin\Debug\WindowsFormsCalculator.exe.config
+E:\BITM\WindowsFormsCalculator\WindowsFormsCalculator\bin\Debug\WindowsFormsCalculator.exe
+E:\BITM\WindowsFormsCalculator\WindowsFormsCalculator\bin\Debug\WindowsFormsCalculator.pdb
+E:\BITM\WindowsFormsCalculator\WindowsFormsCalculator\obj\Debug\WindowsFormsCalculator.csprojResolveAssemblyReference.cache
+E:\BITM\WindowsFormsCalculator\WindowsFormsCalculator\obj\Debug\WindowsFormsCalculator.Form1.resources
+E:\BITM\WindowsFormsCalculator\WindowsFormsCalculator\obj\Debug\WindowsFormsCalculator.Properties.Resources.resources
+E:\BITM\WindowsFormsCalculator\WindowsFormsCalculator\obj\Debug\WindowsFormsCalculator.csproj.GenerateResource.Cache
+E:\BITM\WindowsFormsCalculator\WindowsFormsCalculator\obj\Debug\WindowsFormsCalculator.exe
+E:\BITM\WindowsFormsCalculator\WindowsFormsCalculator\obj\Debug\WindowsFormsCalculator.pdb
+E:\BITM\WindowsFormsCalculator\WindowsFormsCalculator\obj\Debug\WindowsFormsCalculator.FormAbout.resources
